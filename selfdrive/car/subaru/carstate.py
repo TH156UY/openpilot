@@ -191,8 +191,8 @@ class CarState():
       self.es_distance_msg = copy.copy(cp_cam.vl["ES_Distance"])
       self.es_lkas_msg = copy.copy(cp_cam.vl["ES_LKAS_State"])
       # 1 = imperial, 6 = metric
-      if cp.vl["Dash_State"]['Units'] == 1:
-        self.v_cruise_pcm *= CV.MPH_TO_KPH
+      #if cp.vl["Dash_State"]['Units'] == 1:
+      #  self.v_cruise_pcm *= CV.MPH_TO_KPH
 
     if self.car_fingerprint in [CAR.OUTBACK, CAR.LEGACY]:
       self.seatbelt_unlatched = False # FIXME: stock ACC disengages on unlatch so this is fine for now, signal is currently missing
