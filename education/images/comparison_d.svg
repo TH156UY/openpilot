@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+<style>text{font-family:Arial,sans-serif;font-size:18px}</style>
+<text x="20" y="30" font-size="24">Comparison D: Hours of sleep (Class A above axis, Class B below axis)</text>
+<line x1="80" y1="170" x2="840" y2="170" stroke="black" stroke-width="2"/>
+<g fill="#1f77b4">
+<circle cx="180" cy="145" r="8"/>
+<circle cx="260" cy="145" r="8"/><circle cx="260" cy="120" r="8"/>
+<circle cx="340" cy="145" r="8"/><circle cx="340" cy="120" r="8"/><circle cx="340" cy="95" r="8"/>
+<circle cx="420" cy="145" r="8"/><circle cx="420" cy="120" r="8"/>
+<circle cx="500" cy="145" r="8"/><circle cx="500" cy="120" r="8"/>
+<circle cx="580" cy="145" r="8"/>
+<circle cx="660" cy="145" r="8"/>
+</g>
+<g fill="#d62728">
+<circle cx="100" cy="195" r="8"/>
+<circle cx="180" cy="195" r="8"/><circle cx="180" cy="220" r="8"/>
+<circle cx="260" cy="195" r="8"/>
+<circle cx="340" cy="195" r="8"/><circle cx="340" cy="220" r="8"/>
+<circle cx="420" cy="195" r="8"/>
+<circle cx="500" cy="195" r="8"/><circle cx="500" cy="220" r="8"/>
+<circle cx="580" cy="195" r="8"/>
+<circle cx="740" cy="195" r="8"/>
+</g>
+<text x="95" y="305">1</text><text x="175" y="305">2</text><text x="255" y="305">3</text><text x="335" y="305">4</text><text x="415" y="305">5</text><text x="495" y="305">6</text><text x="575" y="305">7</text><text x="655" y="305">8</text><text x="735" y="305">9</text>
+<text x="730" y="110" fill="#1f77b4">● Class A</text><text x="730" y="240" fill="#d62728">● Class B</text>
+</svg>

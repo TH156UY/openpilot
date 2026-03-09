@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+<style>text{font-family:Arial,sans-serif;font-size:18px}</style>
+<text x="20" y="30" font-size="24">Box Plot C: Minutes spent practicing instrument</text>
+<line x1="80" y1="170" x2="840" y2="170" stroke="black" stroke-width="2"/>
+<line x1="180" y1="150" x2="180" y2="190" stroke="black" stroke-width="3"/>
+<rect x="260" y="130" width="280" height="80" fill="#ffbb78" stroke="black" stroke-width="3"/>
+<line x1="400" y1="130" x2="400" y2="210" stroke="red" stroke-width="4"/>
+<line x1="620" y1="150" x2="620" y2="190" stroke="black" stroke-width="3"/>
+<line x1="180" y1="170" x2="260" y2="170" stroke="black" stroke-width="3"/>
+<line x1="540" y1="170" x2="620" y2="170" stroke="black" stroke-width="3"/>
+<text x="165" y="235">12</text><text x="250" y="235">15</text><text x="390" y="235">20</text><text x="530" y="235">27</text><text x="605" y="235">33</text>
+<text x="710" y="160">min=12</text><text x="710" y="180">Q1=15</text><text x="710" y="200">Med=20</text><text x="710" y="220">Q3=27</text><text x="710" y="240">max=33</text>
+</svg>
