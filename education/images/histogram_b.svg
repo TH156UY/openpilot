@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+<style>text{font-family:Arial,sans-serif;font-size:18px} .small{font-size:14px}</style>
+<text x="20" y="30" font-size="24">Histogram B: Quiz scores</text>
+<line x1="90" y1="270" x2="840" y2="270" stroke="black" stroke-width="2"/>
+<line x1="90" y1="70" x2="90" y2="270" stroke="black" stroke-width="2"/>
+<rect x="120" y="230" width="100" height="40" fill="#2ca02c" stroke="black"/>
+<rect x="220" y="170" width="100" height="100" fill="#2ca02c" stroke="black"/>
+<rect x="320" y="130" width="100" height="140" fill="#2ca02c" stroke="black"/>
+<rect x="420" y="150" width="100" height="120" fill="#2ca02c" stroke="black"/>
+<rect x="520" y="190" width="100" height="80" fill="#2ca02c" stroke="black"/>
+<rect x="620" y="230" width="100" height="40" fill="#2ca02c" stroke="black"/>
+<text x="110" y="300">40-49</text><text x="210" y="300">50-59</text><text x="310" y="300">60-69</text>
+<text x="410" y="300">70-79</text><text x="510" y="300">80-89</text><text x="610" y="300">90-99</text>
+<text x="25" y="275" class="small">0</text><text x="20" y="235" class="small">2</text><text x="20" y="195" class="small">4</text><text x="20" y="155" class="small">6</text><text x="20" y="115" class="small">8</text>
+</svg>
